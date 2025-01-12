@@ -1,0 +1,21 @@
+[
+    {
+      "fullName": "Rahim Uddin",
+      "gender": "Male",
+      "email": "rahim@example.com",
+      "phone": "1234567890",
+      "maritalStatus": "Single",
+      "location": "Dhaka",
+      "aboutYourself": "I am a software engineer looking for a life partner."
+    },
+    {
+      "fullName": "Fatima Khatun",
+      "gender": "Female",
+      "email": "fatima@example.com",
+      "phone": "9876543210",
+      "maritalStatus": "Single",
+      "location": "Chittagong",
+      "aboutYourself": "I am a teacher interested in family values."
+    }
+  ]
+  
